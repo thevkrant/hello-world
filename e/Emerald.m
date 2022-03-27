@@ -1,5 +1,5 @@
 const main <- object mainProgram
     initially
 	stdout.putString["Hello, World!\n"]
-	end initially
+    end initially
 end mainProgram
