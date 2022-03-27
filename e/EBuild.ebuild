@@ -11,5 +11,5 @@ DEPEND=""
 RDEPEND=""
 
 src_compile() {
-	einfo "Hello, World!"
+    einfo "Hello, World!"
 }
